@@ -10,3 +10,8 @@ int main() {
 void greeting(char name[]) {
         printf("Hey, Where was you?.. %s", name);
 }
+ 
+ void hello(){
+        printf("Hello world");
+ }
+
