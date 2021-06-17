@@ -1,8 +1,17 @@
-#include<stdio.h>
-int main(){
+#include <stdio.h>
 
-printf("Hello world");
-printf("Hello world again");
-printf("helloworld again again");
-#h
+void greeting();
+
+int main() {
+        char name[] = "Alia Bhat"
+        greeting(name);
 }
+
+void greeting() {
+        printf("Hey, Where was you?.);
+}
+ 
+ void hello(){
+        printf("Hello world");
+ }
+
